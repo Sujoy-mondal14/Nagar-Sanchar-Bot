@@ -22,7 +22,6 @@ Unlike traditional apps, Nagar Sanchar is **multimodal**, allowing users to inte
 ## 📂 Repository Structure
 * `Nagar_Sanchar.bpz` - **The Source Code.** This is the full bot export file containing all flows, intents, and logic.
 * `screenshots/` - Visual documentation of the bot's workflow and conversation logic.
-* `src/` - (Optional) Extracted JavaScript logic for deeper inspection.
 
 ## ⚙️ How to Run (Instructions for Judges)
 Since this project is built on a low-code platform, the logic is encapsulated in the `.bpz` archive.
@@ -43,3 +42,4 @@ Since this project is built on a low-code platform, the logic is encapsulated in
 
 ### 👨‍💻 Author
 **Sujoy** *B.Tech Student, IIIT Ranchi* *Project created for Hackathon 2026*
+
